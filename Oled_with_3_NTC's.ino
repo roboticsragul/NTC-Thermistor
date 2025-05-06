@@ -8,8 +8,8 @@ const char* ssid = "iPhone";
 const char* password = "test@123";
 
 // Telegram Bot credentials
-const char* botToken = "8109233936:AAHXHoZ02TDt27fmkng58h3sS477dEI2R_U";  
-const char* chatID = "975490911";
+const char* botToken = "";  
+const char* chatID = "";
 
 // Push button pin
 const int buttonPin = D5; // Use D5 for push button
